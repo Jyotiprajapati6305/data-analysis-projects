@@ -16,4 +16,4 @@ This beginner-level project involves exploring a dataset of students' exam perfo
 [StudentsPerformance.csv](StudentsPerformance.csv)
 
 ## View Notebook:
-Click [here](StudentPerformance_Analysis.ipynb) to view the analysis.
+Click [here](Students Performance.py) to view the analysis.
